@@ -1,0 +1,6 @@
+.vscode
+.tag
+errors
+plot_error
+plot_path
+*.out
